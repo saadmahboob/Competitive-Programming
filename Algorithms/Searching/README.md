@@ -28,6 +28,7 @@ For Competitive Programming searching is best performed on **HashMap/HashTable**
 ![ArrayComparisonSearch](http://www.gbl.tuwien.ac.at/_docs/GrasshopperScriptum/lib/000_Themengebiete%20der%20algorithmischen%20Planung%20und%20Analyse/DataStructure/Search.gif)
 
 - **Performance Graph of Linear and Binary Search**
+
 ![PerformanceGraphSearch](https://i.stack.imgur.com/5WWYp.png)
 
 ### - IV. References
