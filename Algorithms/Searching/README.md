@@ -16,12 +16,15 @@ For Competitive Programming searching is best performed on **HashMap/HashTable**
 ### - III. Comparison
 
 - **Comparison of Linear and Binary Search**
+
 ![SearchingComparison](https://blog.penjee.com/wp-content/uploads/2015/04/binary-and-linear-search-animations.gif)
 
 - **Progress Bar Comparison Between Linear and Binary Search**
+
 ![ProgressSearchComparison](https://panthema.net/2013/0504-STX-B+Tree-Binary-vs-Linear-Search/thumb.gif)
 
 - **Dry Run Comparison of Linear and Binary Search on Array Data Structure**
+
 ![ArrayComparisonSearch](http://www.gbl.tuwien.ac.at/_docs/GrasshopperScriptum/lib/000_Themengebiete%20der%20algorithmischen%20Planung%20und%20Analyse/DataStructure/Search.gif)
 
 - **Performance Graph of Linear and Binary Search**
