@@ -27,12 +27,15 @@ Good knowledge of dynamic programming paradigm is required since most of the imp
 ### - III. Comparison
 
 - **Shortest Path Using Dynamic Programming**
+
 ![ShortestPathDP](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Shortest_path_optimal_substructure.svg/200px-Shortest_path_optimal_substructure.svg.png)
 
 - **Overallaping Problems such as Fibonacci can be easily solved using Dynamic Programming**
+
 ![OverlapDP](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Fibonacci_dynamic_programming.svg/108px-Fibonacci_dynamic_programming.svg.png)
 
 - **Tower of Hanoi Animation (Can be solved in 3 steps using Dynamic Programming)**
+
 ![HanoiDP](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tower_of_Hanoi_4.gif/300px-Tower_of_Hanoi_4.gif)
 
 ### - IV. References
